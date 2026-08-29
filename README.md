@@ -49,7 +49,7 @@ full, decision by decision, on [redahamouche.com](https://redahamouche.com).
 
 ### Elsewhere
 
-[Case studies](https://redahamouche.com) ·
+[Case studies](https://redahamouche.com/work) ·
 [LinkedIn](https://www.linkedin.com/in/reda-hamouche/) ·
 [reda.hamouche@outlook.com](mailto:reda.hamouche@outlook.com) ·
 [Book a call](https://cal.com/redahamouche)
