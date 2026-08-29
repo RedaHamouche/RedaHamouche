@@ -1,4 +1,4 @@
-## Product engineer
+<img width="2400" height="600" alt="github-banner" src="https://github.com/user-attachments/assets/b3aeb0e6-155d-4050-a768-5d271f383df6" />
 
 I build products end to end: product decisions, mobile, API, smart contracts,
 infrastructure, release. Seven years shipping, five of them in a Paris agency.
@@ -30,6 +30,8 @@ standard, WCAG AA equivalent) audited by Temesis.
 
 **orient-express.com** — trains, hotels and yachts on one system. Technical
 ownership, three front-end developers led.
+
+<img width="2400" height="760" alt="github-plate-agency" src="https://github.com/user-attachments/assets/259e3b6b-23f5-4d40-bc10-9a36c0b8c26f" />
 
 Also Chanel, Dior, Van Cleef & Arpels, Ritz Paris, Opéra national de Paris,
 Balmain.
