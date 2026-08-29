@@ -1,16 +1,55 @@
-## Hi there 👋
+## Product engineer
 
-<!--
-**RedaHamouche/RedaHamouche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build products end to end: product decisions, mobile, API, smart contracts,
+infrastructure, release. Seven years shipping, five of them in a Paris agency.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+
+**[Spliz](https://spliz.app)** — group payments, non-custodial. Everyone signs
+their own balance off-chain, one transaction settles the whole group on Base.
+Built alone in seven months: product, React Native app, NestJS API, Solidity
+settlement contract, production infrastructure, compliance.
+
+[App Store](https://apps.apple.com/app/spliz-split-bills-expenses/id6771575817)
+· [Google Play](https://play.google.com/store/apps/details?id=com.spliz.app)
+· [spliz.app](https://spliz.app)
+
+`React Native` `Expo` `NestJS` `PostgreSQL` `Solidity` `Foundry` `Base` `USDC` `Next.js` `TypeScript`
+
+---
+
+### Before
+
+Five years at Mazarine, Paris. Apprentice to lead.
+
+**louvre.fr** — headless front end for the Musée du Louvre. A hundred-odd
+components, four languages, RGAA AAA (the French public-sector accessibility
+standard, WCAG AA equivalent) audited by Temesis.
+
+**orient-express.com** — trains, hotels and yachts on one system. Technical
+ownership, three front-end developers led.
+
+Also Chanel, Dior, Van Cleef & Arpels, Ritz Paris, Opéra national de Paris,
+Balmain.
+
+---
+
+### About the code here
+
+Spliz is closed source: it is the product I am building, not a demo. What sits
+in this account is older or exploratory — Cardano contracts in Aiken, Rust,
+experiments I learned on. The work I would want to be read on is written up in
+full, decision by decision, on [redahamouche.com](https://redahamouche.com).
+
+---
+
+### Elsewhere
+
+[Case studies](https://redahamouche.com) ·
+[LinkedIn](https://www.linkedin.com/in/reda-hamouche/) ·
+[reda.hamouche@outlook.com](mailto:reda.hamouche@outlook.com) ·
+[Book a call](https://cal.com/redahamouche)
+
+Freelance or full-time. Fintech and web3 are where I want to work.
